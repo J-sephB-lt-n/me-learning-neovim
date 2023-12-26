@@ -1,4 +1,4 @@
-exercises/1.txt 
+exercises/1.txt : [copy/paste and multi-line editing] 
     Use visual line mode [shift-V] to select the whole line
     Use 'y' to copy ("yank")
     Paste 4 times using "4v"
@@ -7,7 +7,7 @@ exercises/1.txt
     Press "q" to end the macro
     Execute the macro 4 times using "4@a"
 
-exercises/2.txt    
+exercises/2.txt : [word-based navigation and regex-based search and replace] 
     Navigate to start of next word using "w", to end of word using "e", and to end of next word using "we"
     Individual characters can be deleted using "x"
     [extra 1] navigate using "b" and "be"

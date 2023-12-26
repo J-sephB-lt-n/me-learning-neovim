@@ -1,5 +1,7 @@
 # VIM Training
 
-This repo contains the tools I created for myself in order to practice using VIM.  
+This repo contains exercises which I created for myself in order to practice using VIM.  
 
-I will document my process later. 
+Select a random exercise using ```bash bash select_random_exercise.sh```
+
+Solutions to all of the exercises can be found in [exercise_answers.txt](./exercise_answers.txt)
