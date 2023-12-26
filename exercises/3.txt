@@ -1,1 +1,3 @@
 Open exercise_answers.txt (found in the folder one directory higher than this one) from within vim (e.g. using a file-explorer available from within VIM)
+1. As the primary file
+2. As a new tab

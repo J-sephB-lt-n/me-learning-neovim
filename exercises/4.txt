@@ -1,0 +1,5 @@
+1. Open 2 different files at the same time in VIM (as 2 separate tabs) from the command line.
+2. Add a 3rd file (in a 3rd tab) using the built-in VIM file explorer
+3. Navigate between the 3 tabs
+4. Close a tab
+5. Close all tabs except for the current tab
