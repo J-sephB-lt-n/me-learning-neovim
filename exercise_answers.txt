@@ -1,0 +1,9 @@
+1.txt 
+    Use visual line mode [shift-V] to select the whole line
+    Use 'y' to copy ("yank")
+    Paste 4 times using "4v"
+    Press "qa" to start macro with label "a"
+    Record a macro which deletes all of the numbers on the first line then scrolls to the start of the next line 
+    Press "q" to end the macro
+    Execute the macro 4 times using "4@a"
+    

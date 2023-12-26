@@ -1,0 +1,3 @@
+
+Paste the line below 4 more times, then delete all the numbers (in every line simultaneously) using multi-line editing: 
+    ab1 cde4 5gh49
