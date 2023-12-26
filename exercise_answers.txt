@@ -1,4 +1,4 @@
-1.txt 
+exercises/1.txt 
     Use visual line mode [shift-V] to select the whole line
     Use 'y' to copy ("yank")
     Paste 4 times using "4v"
@@ -6,4 +6,10 @@
     Record a macro which deletes all of the numbers on the first line then scrolls to the start of the next line 
     Press "q" to end the macro
     Execute the macro 4 times using "4@a"
-    
+
+exercises/2.txt    
+    Navigate to start of next word using "w", to end of word using "e", and to end of next word using "we"
+    Individual characters can be deleted using "x"
+    [extra 1] navigate using "b" and "be"
+    [extra 2] use ":s/\d\+//g" or ":s/\d\+//gc" 
+    [extra 3] same as [extra 2] but start the command with ":%s" (everything) or ":1,8s" (apply to specific lines) instead    

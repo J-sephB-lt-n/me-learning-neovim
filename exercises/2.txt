@@ -1,0 +1,8 @@
+Delete all of the numbers from the following line of text using only word-based navigation 
+    (i.e. using only "jump to start of word", "jumpy to end of word" etc.):
+
+    1April2 is the 3cruellest69 4month20
+
+    [extra 1] accomplish the same thing, but starting at the end of the sentence and jumping backwards
+    [extra 2] delete all numbers from the whole line using regex search and replace
+    [extra 3] delete all numbers from this whole text file using regex and replace
