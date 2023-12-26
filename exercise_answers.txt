@@ -13,3 +13,7 @@ exercises/2.txt : [word-based navigation and regex-based search and replace]
     [extra 1] navigate using "b" and "be"
     [extra 2] use ":s/\d\+//g" or ":s/\d\+//gc" 
     [extra 3] same as [extra 2] but start the command with ":%s" (everything) or ":1,8s" (apply to specific lines) instead    
+
+exercises/3.txt : [in-vim file explorer]
+    Run ":Lex" and then navigate to the file (open file with <enter>)
+    Run ":Lex" again to close the file explorer
