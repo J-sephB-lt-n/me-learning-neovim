@@ -1,0 +1,8 @@
+Open 3 different files at the same time by splitting a single VIM window
+    Open them in every possible layout:
+        (do this without closing and reopening VIM)§
+        - stacked horizontally
+        - stacked vertically
+        - 2 on the left, 1 on the right
+        - 1 on the top, 2 on the bottom
+        ... etc etc

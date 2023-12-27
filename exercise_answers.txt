@@ -24,3 +24,14 @@ exercises/4.txt : [multi-file editing]
     3. "gt" or "<tab number>gt" 
     4. :tabc
     5. :tabo
+
+exercises/5.txt : [splitting the VIM window]
+    1. ":sp" adds a horizontal split (contains the same file)
+    2. ":sp filename.txt" adds a horizontal split (contains file filename.txt)
+    3. ":vsp" is the vertical equivalent of ":sp"
+    4. To change window, use "<ctrl>+w" to enter navigation mode, then press a direction (arrow or one of hjkl)  
+        (can also use "w" instead of a direction to cycle through windows)
+    5. Close active window using ":q(uit)"
+    6. Resize current window with:
+        :resize {+/-number}
+        :vertical resize {+/-number} 
