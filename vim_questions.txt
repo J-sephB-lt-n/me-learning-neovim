@@ -1,0 +1,6 @@
+What does the vim command "f" do (in control mode)?
+What does the vim command "t" do (in control mode)?
+How does one navigate by blocks of text?
+How does one search backwards for a word?
+How does one auto-indent code?
+How does one select all of the content between 2 parentheses (or 2 matching brackets)
